@@ -43,3 +43,10 @@ C:\Users\DROSS\Desktop\Scene-master\Scene-master\DXLibScene\bin\Debug\DXLibScene
 C:\Users\DROSS\Desktop\Scene-master\Scene-master\DXLibScene\bin\Debug\DXLibScene.pdb
 C:\Users\DROSS\Desktop\Scene-master\Scene-master\DXLibScene\bin\Debug\DxLibDotNet.dll
 C:\Users\DROSS\Desktop\Scene-master\Scene-master\DXLibScene\obj\Debug\DXLibScene.csprojResolveAssemblyReference.cache
+C:\Users\teisama\Documents\GitHub\AutoBattle\DXLibScene\bin\Debug\DXLibScene.exe.config
+C:\Users\teisama\Documents\GitHub\AutoBattle\DXLibScene\obj\Debug\DXLibScene.exe
+C:\Users\teisama\Documents\GitHub\AutoBattle\DXLibScene\obj\Debug\DXLibScene.pdb
+C:\Users\teisama\Documents\GitHub\AutoBattle\DXLibScene\bin\Debug\DXLibScene.exe
+C:\Users\teisama\Documents\GitHub\AutoBattle\DXLibScene\bin\Debug\DXLibScene.pdb
+C:\Users\teisama\Documents\GitHub\AutoBattle\DXLibScene\bin\Debug\DxLibDotNet.dll
+C:\Users\teisama\Documents\GitHub\AutoBattle\DXLibScene\obj\Debug\DXLibScene.csprojResolveAssemblyReference.cache
